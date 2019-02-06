@@ -1,1 +1,1 @@
-QDlib
+qmake build system for dlib project
